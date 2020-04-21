@@ -1,0 +1,72 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+header{
+    height: 180px;
+    border-bottom : 1px solid blue;
+}
+
+#fom{
+
+    text-align: center;
+    padding-top:20px;
+    width: 500px;
+    height: 330px;
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 25px;
+    font-family: Futura,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #769ede;
+    color:white;
+    box-shadow: 10px 10px 5px grey;
+}
+#heading{
+    margin-bottom:40px;
+}
+#para{
+    margin-bottom:20px;
+}
+
+.inp{
+    width: 70px;
+    height: 2em;
+    text-align:center;
+    font-size:1.1em;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    }
+    
+
+.btn{
+    
+    color: green; 
+    border: 2px solid #0099CC; 
+    border-radius: 6px;
+    width: 5em;
+    height:2em;
+    font-size: 1.5em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);    }
+.btn:hover {      
+    background-color: #00b849;      
+    color: white; }
+
+   /* .btn1{
+        color: red; 
+        border: 2px solid #0099CC; 
+        border-radius: 6px;
+        width: 5em;
+        height:2em;
+        font-size: 1.5em;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+       
+        }
+        
+    .btn1:hover {      
+        background-color: red;      
+        color: white; }*/
+
+#message{
+    margin-bottom:20px;
+    margin-top:20px;
+}
